@@ -1,5 +1,5 @@
 _repo: The-History-of-the-Thirty-Years-War_566
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Morrison, A. J. W. (Alexander James William)
@@ -38,5 +38,6 @@ subjects:
 - !lcsh 'Thirty Years'' War, 1618-1648'
 - !lcc 'D'
 - !lcsh 'Europe -- History -- 1517-1648'
+- GITenberg
 title: The History of the Thirty Years' War
 url: http://www.gutenberg.org/ebooks/566
